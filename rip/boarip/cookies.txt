@@ -1,0 +1,28 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+secure.bankofamerica.com	TRUE	/"	FALSE	1999999999	INTL_LANG	en_US
+secure.bankofamerica.com	TRUE	/"	FALSE	1999999999	LANG_COOKIE	en_US
+secure.bankofamerica.com	TRUE	/"	FALSE	1999999999	CONTEXT	en_US
+secure.bankofamerica.com	TRUE	/	FALSE	1999999999	JS_ABPA	0000kLtkFA-5N-9LewqPA9kr1UY:1bb9nrkm8
+.bankofamerica.com	TRUE	/	FALSE	1999999999	REQ_TYPE_CODE	C
+.bankofamerica.com	TRUE	/	FALSE	1999999999	ABPA_R2U	C
+.bankofamerica.com	TRUE	/	FALSE	1999999999	SPID	Q2S1
+info.bankofamerica.com	TRUE	/	FALSE	1999999999	NSC_43118_216.178.240.171_TTM443	ffffffff0990a0cd45525d5f4f58455e445a4a423661
+about.bankofamerica.com	TRUE	/	FALSE	1999999999	USER_UUID	9d2aa84e-0e14-4d2c-a73f-48190273080a
+.bankofamerica.com	TRUE	/	FALSE	1999999999	BOFA_LOCALE_COOKIE	en-US
+smallbusinessonlinecommunity.bankofamerica.com	TRUE	/	FALSE	1999999999	jive.login.ts	1492402273822
+smallbusinessonlinecommunity.bankofamerica.com	TRUE	/	FALSE	1999999999	jive.security.context	4FKlwBCx8ZJUBMRDImpuXf//////////JCx4EIgrY8WRe3ZJ/9MfgdeI7Pu0v0R1e6quuAAfgaKxmTGN1qmqbLw3VvC/UFnqEhMqtX49bRr790Jyn2B5TtfAVODfjv/9
+smallbusinessonlinecommunity.bankofamerica.com	TRUE	/	FALSE	1999999999	BIGipServerpool_bofa-corp-v8.hosted.jivesoftware.com	2332274186.20480.0000
+.bankofamerica.com	TRUE	/	FALSE	1999999999	TLTSID	1E9CAC7C23241023B841AD257C2EE148
+.bankofamerica.com	TRUE	/	FALSE	1999999999	TLTUID	1E9CAC7C23241023B841AD257C2EE148
+.bankofamerica.com	TRUE	/	FALSE	1999999999	CONTEXT	en_US
+.bankofamerica.com	TRUE	/	FALSE	1999999999	INTL_LANG	en_US
+.bankofamerica.com	TRUE	/	FALSE	1999999999	LANG_COOKIE	en_US
+www.bankofamerica.com	TRUE	/	FALSE	1999999999	JS_APS	0000-Ylo5vW02FzNSTC5sepWNU3:1bbch93ts
+www.bankofamerica.com	TRUE	/	FALSE	1999999999	JS_PBI	0000p81Lg5gFUl8vSJ0-XSuDYlO:1bbce22qu
+.bankofamerica.com	TRUE	/	FALSE	1999999999	BOA_0020	20170417:0:O:2292c002-2a2f-4f2d-ad5df49fef62596c
+.bankofamerica.com	TRUE	/	FALSE	1999999999	WPID	C2S1
+.bankofamerica.com	TRUE	/	FALSE	1999999999	SID	0019536E0F0058F4413D
+about.bankofamerica.com	TRUE	/	FALSE	1999999999	JSESSIONID	E2390985CD348AA59698492FD3BB523F
+about.bankofamerica.com	TRUE	/	FALSE	1999999999	NSC_43118_216.178.241.100_IUUQ80	ffffffff0990a08f45525d5f4f58455e445a4a423660
+
